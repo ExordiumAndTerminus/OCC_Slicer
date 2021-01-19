@@ -1,1 +1,1 @@
-from .Slicer import *
+from .Slicer import Slicer
