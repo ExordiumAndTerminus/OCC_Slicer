@@ -1,9 +1,0 @@
-README.md
-setup.py
-OCC_Slicer.egg-info/PKG-INFO
-OCC_Slicer.egg-info/SOURCES.txt
-OCC_Slicer.egg-info/dependency_links.txt
-OCC_Slicer.egg-info/requires.txt
-OCC_Slicer.egg-info/top_level.txt
-Slicer/Slicer.py
-Slicer/__init__.py
